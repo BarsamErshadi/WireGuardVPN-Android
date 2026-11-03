@@ -29,4 +29,4 @@ app/src/main/java/com/barsam/wireguardvpn/
 
 ## Install
 
-Download the latest APK from [Releases](https://github.com/RobotpowerRahh/WireGuardVPN-Android/releases).
+Download the latest APK from [Releases](https://github.com/BarsamErshadi/WireGuardVPN-Android/releases).

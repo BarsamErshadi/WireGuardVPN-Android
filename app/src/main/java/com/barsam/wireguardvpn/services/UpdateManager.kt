@@ -29,7 +29,7 @@ object UpdateManager {
     // TODO: Change this to your actual update info URL
     // Required JSON format:
     // { "versionCode": 2, "versionName": "1.1.0", "downloadUrl": "https://...apk", "sha256": "abc123...", "changelog": "..." }
-    private const val UPDATE_CHECK_URL = "https://raw.githubusercontent.com/RobotpowerRahh/WireGuardVPN-Android/main/update.json"
+    private const val UPDATE_CHECK_URL = "https://raw.githubusercontent.com/BarsamErshadi/WireGuardVPN-Android/main/update.json"
 
     private fun enforceHttps(url: String): String {
         if (!url.startsWith("https://")) {
